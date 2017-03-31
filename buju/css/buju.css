@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+body{
+	max-width: 16rem;
+}
+.header{
+	height: 2.5rem;
+	background: yellow;
+}
+.container{
+	display: flex;
+	height: 2.5rem;
+
+}
+.content1{
+	flex: 1;
+	background: red;
+}
+.content2{
+	flex: 1;
+	background: blue;
+}
+.box{
+	width: 16rem;
+	min-height: 6rem;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.item1{
+	width: 4rem;
+	height: 3rem;
+	background: coral;
+}
+.item2{
+	width: 4rem;
+	height: 3rem;
+	background: lightblue;
+}
+.item3{
+	width: 4rem;
+	height: 3rem;
+	background: khaki;
+}
+.item4{
+	width: 4rem;
+	height: 3rem;
+	background: pink;
+}
+.item5{
+	width: 4rem;
+	height: 3rem;
+	background: lightgreen;
+}
+.item6{
+	width: 4rem;
+	height: 3rem;
+	background: lightgrey;
+}
