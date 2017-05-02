@@ -125,6 +125,7 @@ body{
 	position: relative;
 	border-bottom: 1px solid #ccc;
     padding: .3rem 0;
+    overflow: hidden;
 }
 .items .item:nth-child(1) .item_left{
     background: url(../img/content1.jpg) no-repeat top center;
