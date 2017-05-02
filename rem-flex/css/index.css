@@ -119,6 +119,7 @@ body{
 .items{
 	padding: 0 .3rem;
 	background: #fff;
+	margin-bottom: 60px;
 }
 .item{
 	position: relative;
