@@ -128,7 +128,7 @@ body{
 }
 .items .item:nth-child(1) .item_left{
     background: url(../img/content1.jpg) no-repeat top center;
-    background-size: 90% 80%;
+    background-size: 90% auto;
 }
 .item_left {
     float: left;
@@ -167,15 +167,15 @@ body{
 
 .items .item:nth-child(2) .item_left{
     background: url(../img/content2.jpg) no-repeat top center;
-    background-size: 90% 80%;
+    background-size: 90% auto;
 }
 .items .item:nth-child(3) .item_left{
     background: url(../img/content3.jpg) no-repeat top center;
-    background-size: 90% 80%;
+    background-size: 90% auto;
 }
 .items .item:nth-child(4) .item_left{
     background: url(../img/content4.jpg) no-repeat top center;
-    background-size: 90% 80%;
+    background-size: 90% auto;
 }
 .footer{
 	position: fixed;
