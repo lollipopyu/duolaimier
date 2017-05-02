@@ -18,7 +18,7 @@ body{
 	display: flex;
 	height: 44px;
 	padding: 0 15px;
-	background: #ef1313;
+	background: #FF464E;
 	align-items: center;
 }
 .header_address{
@@ -112,7 +112,7 @@ body{
 	font-weight: 400;
 }
 .title span:nth-child(2){
-	color: #c9394a;
+	color: #FF464E;
 	font-weight: 400;
 }
 /*items*/
@@ -127,8 +127,8 @@ body{
     padding: .3rem 0;
 }
 .items .item:nth-child(1) .item_left{
-    background: url(http://szimg.mukewang.com/5806de7c00014a3105400300-360-202.jpg) no-repeat top center;
-    background-size: 90% auto;
+    background: url(../img/content1.jpg) no-repeat top center;
+    background-size: 90% 80%;
 }
 .item_left {
     float: left;
@@ -154,31 +154,28 @@ body{
     color: #33b433;
     margin-right: 0.05rem;
 }
-.item_center p:nth-child(4) {
-    font-size: .14rem;
-    color: #999;
-}
+
 .item_right{
 	position: absolute;
 	top: 30%;
     right: .5rem;
-    color: #c9394a;
+    color: #FF464E;
 }
 .item_right span {
     font-size: .6rem;
 }
 
 .items .item:nth-child(2) .item_left{
-    background: url(http://szimg.mukewang.com/583e42fb0001e04f05400300-360-202.jpg) no-repeat top center;
-    background-size: 90% auto;
+    background: url(../img/content2.jpg) no-repeat top center;
+    background-size: 90% 80%;
 }
 .items .item:nth-child(3) .item_left{
-    background: url(http://szimg.mukewang.com/57ec8a820001c60b05400300-360-202.jpg) no-repeat top center;
-    background-size: 90% auto;
+    background: url(../img/content3.jpg) no-repeat top center;
+    background-size: 90% 80%;
 }
 .items .item:nth-child(4) .item_left{
-    background: url(http://szimg.mukewang.com/576b84c10001b1c005400300-360-202.jpg) no-repeat top center;
-    background-size: 90% auto;
+    background: url(../img/content4.jpg) no-repeat top center;
+    background-size: 90% 80%;
 }
 .footer{
 	position: fixed;
@@ -196,8 +193,8 @@ body{
 }
 .icon_a{
 	display: block;
-	margin: 8px 0;
+	margin: 5px 0;
 }
 .iconactive{
-	color: #c9394a;
+	color: #FF464E;
 }
