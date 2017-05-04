@@ -1,6 +1,10 @@
 body{
 	font-family: PingFang-SC-Regular,Helvetica Neue,Helvetica,Droid Sans Fallback,microsoft yahei,sans-serif;
 }
+#fullpage{
+	max-width: 7.5rem;
+	margin: 0 auto;
+}
 /* 第一屏 */
 .section{
 	text-align: center;

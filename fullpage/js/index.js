@@ -20,13 +20,13 @@
 
 $(document).ready(function(){
 	$("#fullpage").fullpage({
-		sectionsColor: ['#fff', '#2b333b', '#1bbc9b', '#b01e2b'],
+		sectionsColor: ['#ededed', '#2b333b', '#1bbc9b', '#b01e2b'],
         navigation: true,
         verticalCentered:false,
         continuousVertical: true,
         scrollingSpeed: 700,
         easing:'easeInOutCubic',
-        anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage'],
+        // anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage'],
         afterLoad: function(anchorLink, index){
             // 进入任何页面的时候，就会调用afterload
             
